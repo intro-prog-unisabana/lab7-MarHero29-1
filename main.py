@@ -1,9 +1,9 @@
+filename = input("Enter the CSV file name:\n")
 import password_manager
 
 
 def main():
-
-    filename = input("Enter the CSV file name:\n")
+    
 
     
     password_manager.encrypt_passwords_in_file(filename)
