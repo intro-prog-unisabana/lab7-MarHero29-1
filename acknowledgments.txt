@@ -4,14 +4,14 @@ Lab 7
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
 Número de horas:
-
+8
 
 /****************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
 ¿Sí o no?
-
+Si, He presentado bastantes problemas de conexion por lo que se me ha dificultado saber cuando me equivoco ya que no me deja subirlo a github 
 
 /****************************************************************************
 * Escribe cualquier otro comentario aquí.
@@ -22,8 +22,7 @@ Número de horas:
 /****************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
-
-[escribe el enlace aquí]
+https://github.com/intro-prog-unisabana/lab7-MarHero29-1
 
 /****************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -34,4 +33,4 @@ Número de horas:
  *      con las regulaciones de la Universidad.  /s/ Ada Lovelace
  ******************************************************************************/
 
-[escribe y firma la declaración aquí]
+Mariana Hernandez Rodriguez/s
